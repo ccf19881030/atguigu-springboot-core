@@ -1,18 +1,19 @@
 # atguigu-springboot-core
 
 #### 介绍
-尚硅谷SpringBoot核心技术篇的源代码和学习笔记
+尚硅谷SpringBoot核心技术篇的源代码和学习笔记,本资料来自尚硅谷官网。
 
-SpringBoot_权威教程_spring boot_springboot核心篇+springboot整合篇-_雷丰阳_尚硅谷
-B站视频地址为：[SpringBoot_权威教程_spring boot_springboot核心篇+springboot整合篇-_雷丰阳_尚硅谷](https://www.bilibili.com/video/BV1Et411Y7tQ?from=search&seid=16674639868500485848)
+##### 相关B站视频地址为：[SpringBoot_权威教程_spring boot_springboot核心篇+springboot整合篇-_雷丰阳_尚硅谷](https://www.bilibili.com/video/BV1Et411Y7tQ?from=search&seid=16674639868500485848)
 
-本资料来自尚硅谷官网，其他资料：
+##### 视频获取地址
+笔记、代码、资料获取方式：公众号！！！公众号 DragonWell 回复【springboot】
+
+##### 其他资料：
 * [雷丰阳版spring+springmvc+mybatis->av71336532](https://www.bilibili.com/video/av71336532)
 * [雷丰阳spring注解驱动开发->av71252572](https://www.bilibili.com/video/av71252572)
 * [阳哥2020最新SpringCloud教程->av93824064](https://www.bilibili.com/video/av93824064)
 [Java视频资料大全](https://space.bilibili.com/14163840)
-* 视频获取地址
-笔记、代码、资料获取方式：公众号！！！公众号 DragonWell 回复【springboot】
+
 
 
 #### 使用说明
