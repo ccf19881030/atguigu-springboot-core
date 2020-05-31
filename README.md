@@ -1,7 +1,7 @@
 # atguigu-springboot-core
 
 #### 介绍
-尚硅谷SpringBoot核心技术篇的源代码和学些笔记
+尚硅谷SpringBoot核心技术篇的源代码和学习笔记
 
 #### 软件架构
 软件架构说明
