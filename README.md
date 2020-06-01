@@ -12,15 +12,15 @@
 * [雷丰阳版spring+springmvc+mybatis->av71336532](https://www.bilibili.com/video/av71336532)
 * [雷丰阳spring注解驱动开发->av71252572](https://www.bilibili.com/video/av71252572)
 * [阳哥2020最新SpringCloud教程->av93824064](https://www.bilibili.com/video/av93824064)
-[Java视频资料大全](https://space.bilibili.com/14163840)
+* [Java视频资料大全](https://space.bilibili.com/14163840)
 
 
 
 #### 使用说明
 
-- 1.  sources目录下是源代码
-- 2.  documents目录下是相关的学习文档和笔记
-- 3.  Spring Boot.md是尚硅谷SpringBoot核心技术篇的学习笔记MarkDown文档，images下是对应的图像文件。
+* 1.sources目录下是源代码
+* 2.documents目录下是相关的学习文档和笔记
+* 3.Spring Boot.md是尚硅谷SpringBoot核心技术篇的学习笔记MarkDown文档，images下是对应的图像文件。
 
 #### 参与贡献
 
