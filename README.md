@@ -6,7 +6,7 @@
 ##### 相关B站视频地址为：[SpringBoot_权威教程_spring boot_springboot核心篇+springboot整合篇-_雷丰阳_尚硅谷](https://www.bilibili.com/video/BV1Et411Y7tQ?from=search&seid=16674639868500485848)
 
 ##### 视频获取地址
-笔记、代码、资料获取方式：公众号！！！公众号 DragonWell 回复【springboot】
+笔记、代码、资料获取方式：微信公众号！！！关注公众号 DragonWell 回复【springboot】
 
 ##### 其他资料：
 * [雷丰阳版spring+springmvc+mybatis->av71336532](https://www.bilibili.com/video/av71336532)
