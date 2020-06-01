@@ -20,6 +20,7 @@
 
 1.  sources目录下是源代码
 2.  documents目录下是相关的学习文档和笔记
+3.  Spring Boot.md是尚硅谷SpringBoot核心技术篇的学习笔记MarkDown文档，images下是对应的图像文件。
 
 #### 参与贡献
 
